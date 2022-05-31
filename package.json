@@ -1,0 +1,31 @@
+{
+  "name": "net.funkysheep.unity.logos",
+  "displayName": "FunkySheep Unity Logos Library",
+  "version": "0.1.0",
+  "unity": "2020.3",
+  "description": "FunkySheep framework Logos Library",
+  "keywords": [
+    "Logos",
+    "Blender",
+    "SVG",
+    "Unity",
+    "WebGl",
+    "AR",
+    "Android",
+    "IOS"
+  ],
+  "category": "Logos",
+  "changelogUrl": "https://github.com/FunkySheepStudio/Unity-Logos/blob/main/CHANGELOG.md",
+  "dependencies": {
+    "net.funkysheep.unity.effects": "0.1.0"
+  },
+  "scopedRegistries": [
+    {
+      "name": "npmjs",
+      "url": "https://registry.npmjs.org",
+      "scopes": [
+        "net.funkysheep"
+      ]
+    }
+  ]
+}
