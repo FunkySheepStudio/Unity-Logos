@@ -4,13 +4,13 @@
 <svg
    version="1.1"
    id="svg4619"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="townhall.svg"
    x="0px"
    y="0px"
-   width="13"
-   height="13"
-   viewBox="0 0 13 13"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -29,16 +29,19 @@
    fit-margin-left="0"
    fit-margin-right="0"
    fit-margin-bottom="0"
-   inkscape:zoom="53.066667"
-   inkscape:cx="6.5012563"
-   inkscape:cy="7.4905779"
-   inkscape:window-width="2880"
-   inkscape:window-height="1541"
-   inkscape:window-x="2869"
-   inkscape:window-y="-11"
+   inkscape:zoom="13.266667"
+   inkscape:cx="17.939698"
+   inkscape:cy="24.723618"
+   inkscape:window-width="1920"
+   inkscape:window-height="1009"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="svg4619" />
+   inkscape:current-layer="svg4619"
+   inkscape:showpageshadow="0"
+   inkscape:deskcolor="#505050" />
 <path
    id="path7509"
-   d="M 6.5,0 0,3.4453 V 4 H 13 V 3.4453 Z M 1,5 v 5 L 0,11.5547 V 13 H 13 V 11.5547 L 12,10 V 5 Z m 2,1 h 1 v 5.5 H 3 Z m 3,0 h 1 v 5.5 H 6 Z m 3,0 h 1 v 5.5 H 9 Z" />
+   d="M 24,0 0,12.721108 v 2.048123 H 48 V 12.721108 Z M 3.6923077,18.461538 V 36.923077 L 0,42.663508 V 48 H 48 V 42.663508 L 44.307692,36.923077 V 18.461538 Z m 7.3846153,3.692308 h 3.692308 v 20.307692 h -3.692308 z m 11.076923,0 h 3.692308 v 20.307692 h -3.692308 z m 11.076923,0 h 3.692308 v 20.307692 h -3.692308 z"
+   style="stroke-width:3.69231" />
 </svg>
