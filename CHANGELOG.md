@@ -1,3 +1,8 @@
+## Version 0.1.2 (August 27, 2022)
+
+- **Bug Fixes**
+  - Fix missing .meta files
+
 ## Version 0.1.1 (August 16, 2022)
 - **Features**
   - Add plane game logos
